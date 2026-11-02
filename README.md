@@ -1,6 +1,6 @@
 # margaritaturealtor.com
 
-The domain is **margaritaturealtor.com**, matching her @margaritaturealtor handles (not bought yet). Repo: `danieljcuesta007/margaritaturealtor.com` (renamed from `margaritacuesta.com` on 19 Oct 2026; GitHub redirects the old URL).
+The domain is **margaritaturealtor.com**, matching her @margaritaturealtor handles (not bought yet). Repo: `danielcuesta007/margaritaturealtor.com` (renamed from `margaritacuesta.com` on 19 Oct 2026; GitHub redirects the old URL).
 
 The website of **Margarita Cuesta**, bilingual (English/Spanish) real estate broker and
 REALTOR® with the Corrales Real Estate Team with The Insight Group in Raleigh, NC.
